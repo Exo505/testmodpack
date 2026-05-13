@@ -1,4 +1,4 @@
-name = "Packwiz Test"
+name = "testmodpack"
 author = "Exo505"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d551c7ad17c6ec45ed84e77a9ffddf0290d7494289b77ee362459911444bf187"
+hash = "0c25d8b3bff9aa66b1f3e79d993ceca78c0c4bee043a219d560d480488234f54"
 
 [versions]
 minecraft = "1.21.1"
