@@ -6,8 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0c25d8b3bff9aa66b1f3e79d993ceca78c0c4bee043a219d560d480488234f54"
-url = "https://raw.githubusercontent.com/exo505/testmodpack/main/index.toml"
+hash = "1a9e87002569e34a8d5eb46f085b6827f27faecdf81b18761c716914096869e7"
 
 [versions]
 minecraft = "1.21.1"
