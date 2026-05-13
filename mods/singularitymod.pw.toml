@@ -1,0 +1,13 @@
+name = "Singularity"
+filename = "singularity-2.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/h56S2ggR/versions/4R98R2kr/singularity-2.0.1.jar"
+hash-format = "sha512"
+hash = "6499007c13d63b571c50407ca3e45cfc74187bfb55208ee469da2178d11530bdbe2b97876587e6b0e280d4745f8e5622c818ee1c5c9d05daca9f4dc657fd1f77"
+
+[update]
+[update.modrinth]
+mod-id = "h56S2ggR"
+version = "4R98R2kr"

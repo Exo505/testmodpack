@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b600e1df0e7886295fed43f898f41de99882ce8e119804361b78143d092fc5d4"
+metafile = true
+
+[[files]]
+file = "mods/singularitymod.pw.toml"
+hash = "07211841c27a6fd1f872eb151f807769a11ccb32a5962e5c59ff147689996486"
 metafile = true
 
 [[files]]
